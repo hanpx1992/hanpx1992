@@ -1,4 +1,8 @@
-### Hi there 👋
+### ✨ Hey ! Nice To See You 👋
+
+Welcome to my page !
+I'm Hanpx, one Android Developer from China, currently living in BeiJing.
+
 
 <!--
 **hpx86/hpx86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
